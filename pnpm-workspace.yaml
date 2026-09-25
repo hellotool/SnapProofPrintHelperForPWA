@@ -1,9 +1,9 @@
-onlyBuiltDependencies:
-  - '@biomejs/biome'
-  - '@swc/core'
-  - core-js
-  - core-js-pure
-  - esbuild
+allowBuilds:
+  core-js: false
+  esbuild: true
+
+minimumReleaseAgeExclude:
+  - '@types/node@24.19.0'
 
 patchedDependencies:
   '@suid/styled-engine': patches/@suid__styled-engine.patch
