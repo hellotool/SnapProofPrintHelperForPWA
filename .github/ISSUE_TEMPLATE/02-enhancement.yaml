@@ -1,0 +1,36 @@
+name: "Improvement Suggestion"
+description: Suggest an improvement for this project.
+title: "[Improvement]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for your suggestion! We will carefully consider it.
+  - type: textarea
+    id: related-problem
+    attributes:
+      label: Related Problem
+      description: What scenario makes you feel troubled?
+  - type: textarea
+    id: desired-solution
+    attributes:
+      label: Desired Solution
+      description: What change would you like to see?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+      description: What other solutions have you considered?
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Relevant screenshots or extra information
+  - type: checkboxes
+    attributes:
+      label: Contribution
+      options:
+        - label: I am willing to contribute code to implement this feature
