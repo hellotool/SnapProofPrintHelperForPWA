@@ -9,12 +9,16 @@
 | --- | --- | --- |
 | [@material/tooltip@14.0.0](https://github.com/material-components/material-components-web) | MIT | Copyright (c) 2014-2020 Google, Inc. |
 | [@solid-primitives/event-listener@2.4.1](https://github.com/solidjs-community/solid-primitives) | MIT | Copyright (c) 2021 Solid Primitives Working Group |
-| [@suid/icons-material@0.8.1](https://github.com/swordev/suid) | MIT | Copyright (c) 2022 Juanra GM <juanrgm724@gmail.com><br />Copyright (c) 2014 Call-Em-All |
-| [@suid/material@0.18.0](https://github.com/swordev/suid) | MIT | Copyright (c) 2022 Juanra GM <juanrgm724@gmail.com><br />Copyright (c) 2014 Call-Em-All |
-| [@suid/system@0.13.0](https://github.com/swordev/suid) | MIT | Copyright (c) 2022 Juanra GM <juanrgm724@gmail.com><br />Copyright (c) 2014 Call-Em-All |
-| [@suid/types@0.7.1](https://github.com/swordev/suid) | MIT | Copyright (c) 2022 Juanra GM <juanrgm724@gmail.com> |
-| [@tauri-apps/api@2.5.0](https://github.com/tauri-apps/tauri) | Apache-2.0 OR MIT |  |
-| [i18next@25.0.1](https://github.com/i18next/i18next) | MIT | Copyright (c) 2025 i18next |
-| [nanoid@5.1.5](https://github.com/ai/nanoid) | MIT | Copyright 2017 Andrey Sitnik <andrey@sitnik.ru> |
+| [@solid-primitives/i18n@2.2.1](https://github.com/solidjs-community/solid-primitives) | MIT | Copyright (c) 2021 Solid Primitives Working Group |
+| [@solidjs/meta@0.29.4](https://github.com/solidjs/solid-meta) | MIT |  |
+| [@suid/base@0.11.0](https://github.com/swordev/suid) | MIT | Copyright (c) 2022 Juanra GM <juanrgm724@gmail.com><br />Copyright (c) 2014 Call-Em-All |
+| [@suid/icons-material@0.9.0](https://github.com/swordev/suid) | MIT | Copyright (c) 2022 Juanra GM <juanrgm724@gmail.com><br />Copyright (c) 2014 Call-Em-All |
+| [@suid/material@0.19.0](https://github.com/swordev/suid) | MIT | Copyright (c) 2022 Juanra GM <juanrgm724@gmail.com><br />Copyright (c) 2014 Call-Em-All |
+| [@suid/system@0.14.0](https://github.com/swordev/suid) | MIT | Copyright (c) 2022 Juanra GM <juanrgm724@gmail.com><br />Copyright (c) 2014 Call-Em-All |
+| [@suid/types@0.8.0](https://github.com/swordev/suid) | MIT | Copyright (c) 2022 Juanra GM <juanrgm724@gmail.com> |
+| [@tauri-apps/api@2.11.1](https://github.com/tauri-apps/tauri) | Apache-2.0 OR MIT |  |
+| [i18next@26.4.2](https://github.com/i18next/i18next) | MIT | Copyright (c) 2011-present i18next |
+| [nanoid@6.0.1](https://github.com/ai/nanoid) | MIT | Copyright 2017 Andrey Sitnik <andrey@sitnik.es> |
 | [solid-js@1.9.7](https://github.com/solidjs/solid) | MIT | Copyright (c) 2016-2025 Ryan Carniato |
+| [workbox-window@7.3.0](https://github.com/googlechrome/workbox) | MIT | Copyright 2018 Google LLC |
 | [Chromium](https://github.com/chromium/chromium) | BSD-3-Clause | Copyright 2015 The Chromium Authors |

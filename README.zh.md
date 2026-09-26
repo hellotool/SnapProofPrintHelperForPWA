@@ -21,7 +21,13 @@ _该应用程序目前仅支持中文_。
 
 </div>
 
-在一张纸张上自由打印多张图片。
+打印多张图片在同一张纸上。
+
+![哈兔工具 - 实验性项目](https://img.shields.io/badge/哈兔工具-实验性项目-2196f3)
+[![Apache 2.0 许可证](https://img.shields.io/github/license/hellotool/SnapProofPrintHelperForPWA?label=许可证)](./LICENSE)
+
+![GitHub - Stars](https://img.shields.io/github/stars/hellotool/SnapProofPrintHelperForPWA?style=flat&logo=github)
+[![Gitee - Stars](https://gitee.com/hellotool/SnapProofPrintHelperForPWA/badge/star.svg?theme=dark)][stargazers-gitee]
 
 ## 特性
 
@@ -85,13 +91,11 @@ TODO
 
 本项目以 Apache 2.0 许可证授权，详情请参阅 [许可证文件](./LICENSE)。
 
-## 开源声明
+## 第三方声明
 
-请参见 [《开源声明》](./docs/legal/os_notices.md)
+本项目使用了第三方开源代码，您可以在 [声明文件](./docs/legal/os_notices.md) 中查看详细信息。
 
-## 法律声明
-
-- Chromebook、ChromeOS 和 ChromeOS 徽标是 Google LLC 的商标
+Chromebook、ChromeOS 和 ChromeOS 徽标是 Google LLC 的商标。
 
 ---
 
@@ -104,3 +108,4 @@ TODO
 [release-gitee]: https://gitee.com/HelloTool/SnapProofPrintHelperForPWA/releases
 [release-github]: https://github.com/HelloTool/SnapProofPrintHelperForPWA/releases
 [web-app]: https://hellotool.github.io/SnapProofPrintHelperForPWA/
+[stargazers-gitee]: https://gitee.com/hellotool/SnapProofPrintHelperForPWA/stargazers
